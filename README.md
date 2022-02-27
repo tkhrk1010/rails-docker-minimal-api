@@ -6,14 +6,10 @@ $ vim Dockerfile
 $ vim docker-compose.yml
 ```
 ## How to use
-First, git clone, and bundle install.  
+First, git clone, and docker-compose up.  
 ```
-$ bundle install
+$ docker-compose up
 ```  
-Secondly, start rails.  
-```
-$ rails new
-```
 Then, you can open app on your browser or curl.
 ```
 $ curl http://localhost:3000  
