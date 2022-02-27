@@ -2,6 +2,8 @@
 ## How to create this repository
 ```
 $ rails new rails-minimal-api --minimal --api -T
+$ vim Dockerfile
+$ vim docker-compose.yml
 ```
 ## How to use
 First, git clone, and bundle install.  
