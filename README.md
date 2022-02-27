@@ -12,5 +12,5 @@ $ docker-compose up
 ```  
 Then, you can open app on your browser or curl.
 ```
-$ curl http://localhost:3000  
+$ curl http://localhost:3001
 ```
